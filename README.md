@@ -2,9 +2,9 @@
 This repository contains a script that allows you to check and retrieve various details about your Roblox groups using your .ROBLOSECURITY cookie. It provides information about group funds, pending funds, number of games, total visits, clothing items, and more. This tool is particularly useful for Roblox group owners who want to manage and monitor their groups efficiently.
 
 Features
-Retrieve User ID: Fetch your Roblox User ID using your .ROBLOSECURITY cookie.
-Group Details: Get information on all groups you own, including:
-Group Name
+Retrieve User ID: Fetch your Roblox User ID using your .ROBLOSECURITY cookie.\n
+Group Details: Get information on all groups you own, including:\n
+Group Name\n
 Number of Members
 Group Funds and Pending Funds
 Total Number of Games and Game Visits
