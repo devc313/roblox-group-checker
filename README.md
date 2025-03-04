@@ -1,4 +1,4 @@
-n# Roblox Group Checker
+# Roblox Group Checker
 This repository contains a script that allows you to check and retrieve various details about your Roblox groups using your .ROBLOSECURITY cookie. It provides information about group funds, pending funds, number of games, total visits, clothing items, and more. This tool is particularly useful for Roblox group owners who want to manage and monitor their groups efficiently.
 
 Features
